@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ulan Chokushov. Python developer from Bishkek
 - 👀 I’m interested in remote Python jobs
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning ethical hacking 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:[@innokg](https://t.me/innokg)
 
